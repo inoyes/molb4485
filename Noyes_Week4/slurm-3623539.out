@@ -1,0 +1,8 @@
+starting up
+modules loaded
+TrimmomaticPE: Started with arguments:
+ -threads 4 ERR013161_1.filt.fastq.gz ERR013161_2.filt.fastq.gz ./fwd_pair.fq ./fwd_unpair.fq ./rev_pair.fq ./rev_unpair.fq HEADCROP:10 SLIDINGWINDOW:4:24 MINLEN:80
+Quality encoding detected as phred33
+Input Read Pairs: 20958983 Both Surviving: 10087358 (48.13%) Forward Only Surviving: 0 (0.00%) Reverse Only Surviving: 0 (0.00%) Dropped: 10871625 (51.87%)
+TrimmomaticPE: Completed successfully
+finished
